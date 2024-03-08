@@ -1,0 +1,90 @@
+
+@import url();
+
+*{
+    list-style: none;
+    text-decoration: none;
+    
+    }
+
+.nombre-logo{
+    padding-top: 20px;
+    margin-bottom: opx;
+    font-family: fantasy;
+    color
+    text-shadow: 5px 5px black;
+    text-align: center;
+}
+
+.menu{
+    background-color:lightcoral;
+    height: 160px;
+    border-radius: 10px;
+}
+
+.logo{
+    position: absolute;
+    width: 10%;
+    height: 15%;
+    margin: 20px;
+    border-radius: 15%;
+}
+
+.navegacion{
+    width: 100%;
+    height: 100px;
+}
+
+.navegacion ul{
+    display: inline-flex;
+    
+    
+}
+
+.navegacion ul li{
+    text-decoration: none;
+    padding: 20px;
+    margin-left: 135px;
+    
+    
+    
+}
+
+.navegacion ul li a{
+
+    font-family:fantasy;
+    font-size: 25px;
+
+    
+}
+
+.c2{
+    margin-top: 100px;
+}
+.c1, .c2, .c3, .c4{
+text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.titulo1{
+    text-align: center;
+    color:darkcyan;
+}
+
+.hola{
+    text-align: center;
+    color:darkcyan;
+}
+
+.no{
+    text-align: center;
+    color:darkcyan;
+}
+
+.si{
+    text-align: center;
+    color:black;
+
+}

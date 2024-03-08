@@ -1,0 +1,108 @@
+@import url();
+
+*{
+    list-style: none;
+    text-decoration: none;
+    
+    }
+
+.nombre-logo{
+    padding-top: 20px;
+    margin-bottom: opx;
+    font-family: fantasy;
+    text-shadow: 5px 5px black;
+    text-align: center;
+}
+
+.menu{
+    background-color:lightcoral;
+    height: 160px;
+    border-radius: 10px;
+}
+
+.logo{
+    position: absolute;
+    width: 10%;
+    height: 15%;
+    margin: 20px;
+    border-radius: 15%;
+}
+
+.navegacion{
+    width: 100%;
+    height: 100px;
+}
+
+.navegacion ul{
+    display: inline-flex;
+    
+    
+}
+
+.navegacion ul li{
+    text-decoration: none;
+    padding: 20px;
+    margin-left: 135px;
+    
+    
+    
+}
+
+.navegacion ul li a{
+
+    font-family:fantasy;
+    font-size: 25px;
+
+    
+}
+
+.producto img{
+    height: 300px;
+    width: 320px;
+}
+
+.contenido{
+    background:lightcoral;
+    color: white;
+    width: 70%;
+    border-radius: 30px;
+    padding: 50px;
+    display:  block;
+    margin-left: 170px;
+    margin-top: 20px;    
+    text-align: center;
+}
+
+.form{
+    background-color:;
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    height: 550px;
+    margin-left: 375px;
+    margin-top: 20px;
+}
+
+form label{
+    font-size: 28px;
+    font-family: fantasy;
+}
+
+form input{
+    display: flex;
+    font-size: 20px;
+}
+
+form label select {
+    display: flex;
+    width: 200px;
+    height: 30px;
+}
+
+form button{
+    width: 60px;
+    height: 60px;
+    font-size: 18px;
+    font-family: fantasy;
+    
+}

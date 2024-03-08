@@ -1,0 +1,82 @@
+@import url();
+
+*{
+    list-style: none;
+    text-decoration: none;
+    
+    }
+
+.nombre-logo{
+    padding-top: 20px;
+    margin-bottom: 0px;
+    text-shadow: 5px 5px black;
+    text-align: center;
+}
+
+.menu{
+    background-color:lightcoral;
+    height: 160px;
+    border-radius: 10px;
+}
+
+.logo{
+    position: absolute;
+    width: 10%;
+    height: 15%;
+    margin: 20px;
+    border-radius: 15%;
+}
+
+.navegacion{
+    width: 100%;
+    height: 100px;
+}
+
+.navegacion ul{
+    display: inline-flex;
+    
+    
+}
+
+.navegacion ul li{
+    text-decoration: none;
+    padding: 20px;
+    margin-left: 135px;
+     
+    
+    
+}
+
+.navegacion ul li a{
+
+    font-family:fantasy;
+    font-size: 25px;
+
+    
+}
+
+.producto img{
+    height: 300px;
+    width: 320px;
+}
+.hola{
+    text-align:center;
+    color:blue
+}
+
+.hola-contenido{
+    width: 400px;;
+    height: 400px;
+    margin: 10PX;
+}
+.c1{
+    display: flex;
+    justify-content:center;
+}
+
+footer{
+    background: white;
+    position: fixed;
+    bottom: 0px;
+    display: block;
+}
